@@ -1,6 +1,6 @@
 # RubiksCube
-This project serves as a simulation of a Rubik's Cube using vector 4-tuples as representation of the Cube. 
-The program is designed to perform 6 basic moves of a Rubik's Cube form any given position. The representation of the Cube is accoring to Janet Chen's "Group Theory and the Rubik's Cube".
+This project serves as a simulation of the Rubik's Cube using 4-tuples of vectors to represent the Cube's states. 
+The program is designed to perform 6 basic moves of the Rubik's Cube from any given position. The representation of the Cube is with accordance to Janet Chen's article "Group Theory and the Rubik's Cube".
 
 -----------
 
