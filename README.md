@@ -1,5 +1,5 @@
 # RubiksCube
-This is a simulation of the Rubik's cube. The program is allows you to succesively perform any of the basic 90^o rotations. The permutation representation of the cube is from "Group Theory and the Rubik's Cube" by Janet Chen.
+This is a simulation of the Rubik's cube. The program allows you to succesively perform any of the basic 90^o rotations. The permutation representation of the cube is from "Group Theory and the Rubik's Cube" by Janet Chen.
 
 -----------
 
